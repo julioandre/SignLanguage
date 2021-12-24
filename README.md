@@ -19,7 +19,7 @@ and using the webcam to record live video as input
 # Running the application
 
 To run this application we first need to activate the virtual python environment by running the command $source signlanguage/bin/activate
-Finally to run the application type this command into your terminal $python step_3_train.py   
+Finally to run the application type this command into your terminal $python step_5_camera.py   
 
 
 
